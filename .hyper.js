@@ -148,6 +148,7 @@ module.exports = {
           left: 'alt+h',
           right: 'alt+l',
         },
+        maximize: 'alt+m'
       },
     },
   },
